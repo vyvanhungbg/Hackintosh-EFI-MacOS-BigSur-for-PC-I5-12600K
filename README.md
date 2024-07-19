@@ -9,8 +9,8 @@
   + Power Adapter SAMA 700W
 
 
-Work
-  + Sleep
+## Work 
+  + Sleep/wake
   + Airdrop
   + Sound (jack 3.5, bluetooth speaker)
   + Bluetooth
@@ -20,12 +20,12 @@ Work
   + Apple ID
   + Extend Display (Double screen vga)
   
-Don't work 
+## Don't work 
   + Almost all features work completely and no kernel has occurred yet
 
   Image 1 
   
-  ![alt text](https://github.com/vyvanhungbg/EFI-MACOS/blob/master/image/img.jpg)
+  ![alt text](https://github.com/vyvanhungbg/Hackintosh-EFI-MacOS-BigSur-for-PC-I5-12600K/blob/develop/image/img.png)
 
   
   Based
