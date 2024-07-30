@@ -856,7 +856,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>-v alcid=11 agdpmod=vit9696  watchdog=0 keepsyms=1 -no_compat_check swd_panic=1 igfxonln=1 agdpmod=pikera  npci=0x3000 amfi_get_out_of_my_way=0x1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1</string>
+                    <string>-v alcid=11 -wegnoigpu agdpmod=vit9696  watchdog=0 keepsyms=1 -no_compat_check swd_panic=1 igfxonln=1 agdpmod=pikera  npci=0x3000 amfi_get_out_of_my_way=0x1 ngfxcompat=1 ngfxgl=1 nvda_drv_vrl=1</string>
                     <key>csr-active-config</key>
                     <data>7w8AAA==</data>
                     <key>nvda_drv</key>
